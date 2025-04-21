@@ -1,0 +1,75 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SQL Data Analyst Portfolio - Real Estate Analysis</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f7f9fc;
+      color: #333;
+    }
+    header, section {
+      padding: 40px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    header {
+      background: #003366;
+      color: white;
+      text-align: center;
+    }
+    h1, h2, h3 {
+      color: #003366;
+    }
+    img {
+      width: 100%;
+      max-width: 900px;
+      display: block;
+      margin: 20px auto;
+    }
+    iframe {
+      width: 100%;
+      height: 800px;
+      border: none;
+      margin: 20px 0;
+    }
+    pre {
+      background: #eee;
+      padding: 15px;
+      overflow-x: auto;
+    }
+  </style>
+</head>
+<body><header>
+  <h1>Real Estate & Financial Sector Analysis (2010–2012)</h1>
+  <p>A SQL Data Analytics Portfolio Project by Goitsee07</p>
+</header><section>
+  <h2>Project Overview</h2>
+  <p>This SQL-driven project explores trends in capital expenditure, financial health, and employment within South Africa's real estate and business services sectors from 2010 to 2012.</p>
+</section><section>
+  <h2>Embedded Report</h2>
+  <iframe src="assets/report.pdf"></iframe>
+</section><section>
+  <h2>Key Visualizations</h2>
+  <img src="assets/final_sql_project_visuals.jpg" alt="Trends in Capital, Income, and Employment">
+</section><section>
+  <h2>Sample SQL Query</h2>
+  <pre><code>SELECT category, year, SUM(value) AS total_value
+FROM finance_data
+WHERE category IN ('Total income', 'Total expenditure')
+GROUP BY category, year;
+  </code></pre>
+</section><section>
+  <h2>Skills Demonstrated</h2>
+  <ul>
+    <li>Data Cleaning & Normalization</li>
+    <li>SQL Querying and Aggregation</li>
+    <li>Trend Analysis and Visualization</li>
+    <li>Professional Reporting (PDF)</li>
+  </ul>
+</section></body>
+  </html>
