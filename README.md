@@ -1,9 +1,35 @@
 # Real Estate & Financial Sector Analysis (South Africa, 2010–2012)
 
-**Author**: [Goitsee07](https://github.com/Goitsee07)  
-**Main Tool**: SQL (SQLite)  
-**Supporting Tools**: Python, Matplotlib, Seaborn, HTML, WeasyPrint  
 
+<!-- Profile Header -->
+<p align="center">
+  <img src="profile.jpg" width="150" style="border-radius: 50%;" alt="Goitseone Ndlovu"/>
+</p>
+
+<h1 align="center">⚡ Goitseone Ndlovu — Data Analyst | BI Developer</h1>
+
+<p align="center">
+  Passionate about turning raw data into actionable insights.  
+  Skilled in Excel, Power BI, Tableau, SQL, and Python — focused on the South African market.
+</p>
+
+<p align="center">
+  <a href="https://goitsee07.github.io/real-estate-sql-analysis/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=githubpages" />
+  </a>
+  <a href="https://www.linkedin.com/in/goitseendlovu">
+    <img src="https://img.shields.io/badge/LinkedIn-Goitseone-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:goitsee07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Goitsee07@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&height=60&lines=We+can+code+this!;We+can+analyze+this!;We+can+visualize+this!" />
+</p>
 ---
 
 ## Project Overview
