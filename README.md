@@ -30,14 +30,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&height=60&lines=We+can+code+this!;We+can+analyze+this!;We+can+visualize+this!" />
 </p>
----
+
 
 ## Project Overview
 
 This project explores real-world economic data from South Africa's real estate, finance, and business services industries between 2010 and 2012. Using SQL as the main analysis tool, it uncovers trends in capital expenditure, financial health, and employment metrics. The data was cleaned, structured, queried, and visualized to present a professional data story.
 
 ---
-
 ## Contents
 
 ### 1. Cleaned Dataset (SQL)
@@ -58,7 +57,7 @@ A full 4-page report built in HTML and exported to PDF. It includes:
 - Visual Overview  
 - Key Insights and Takeaways  
 
-You can [view the full report here](report.pdf) or embed it into your portfolio using HTML rendering.
+You can [view the full report here](report.pdf) 
 
 ### 3. Visualizations
 
