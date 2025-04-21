@@ -23,7 +23,7 @@ This SQL-powered analysis uncovers economic shifts in South Africa’s real esta
 
 ---
 
-Animated Insight Preview
+Visual Overview
 
 
 
