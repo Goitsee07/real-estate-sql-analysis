@@ -3,115 +3,95 @@ Real Estate & Financial Sector Analysis (South Africa, 2010–2012)
   
 
 
+
+> "Turning raw data into stories, one query at a time."
+
+
+
+
 ---
 
 Goitseone Ndlovu
 Data Analyst / Power BI Developer
-LinkedIn • GitHub • goitsee07@gmail.com
+LinkedIn | GitHub | goitsee07@gmail.com
 
 
 ---
 
-This project dives into economic trends in South Africa’s real estate, financial services, and business sectors using SQL-driven analytics. It’s part of my data analyst portfolio to showcase practical, industry-relevant skills in data transformation, trend analysis, and storytelling.
+This SQL-powered analysis uncovers economic shifts in South Africa’s real estate, finance, and business services sectors from 2010 to 2012. I transformed raw data into a query-ready database, ran in-depth trend analyses, and brought insights to life with clean visuals and a multi-page report.
 
 
 ---
 
-Key Highlights
+Animated Insight Preview
 
-Structured SQL database from raw economic reports
-
-Insights into capital expenditure, income, and employment trends
-
-Visual storytelling powered by Python
-
-Professional multi-page report generated using HTML-to-PDF
 
 
 
 ---
 
-Visual Overview
+Dive Into the Report
 
 
 
-The visual above combines:
+Inside you'll find:
 
-Capital expenditure growth
+Executive Summary & Methodology
 
-Income vs. expenditure
+Capital Investment Trends
 
-Employment rise across key sectors
+Income vs Expenditure Patterns
 
+Employment Dynamics
 
-
----
-
-Explore the Full Report
-
-View the Report (PDF)
-
-It includes:
-
-Executive Summary
-
-Methodology
-
-Sector Insights
-
-Key Takeaways
-
-Visuals
+Takeaways for Decision-Makers
 
 
 
 ---
 
-SQL in Action
+SQL In Action
 
 SELECT category, year, SUM(value) AS total_value
 FROM finance_data
 WHERE category IN ('Total income', 'Total expenditure')
 GROUP BY category, year;
 
-More SQL queries inside analysis.sql.
+Full SQL script: analysis.sql
 
 
 ---
 
 Dataset Snapshot
 
-The dataset is structured as an SQLite database: real_estate_data.db
+> SQLite Database: real_estate_data.db
+
+
 
 Table: finance_data
 
 
 ---
 
-Skills Demonstrated
+Skills in Motion
 
-Data Cleaning & Transformation
+SQL Mastery: Data filtering, aggregation, structuring
 
-SQL Query Design
+Python Visualization: Matplotlib & Seaborn
 
-Python Visualization (matplotlib, seaborn)
+Report Engineering: HTML-to-PDF workflows
 
-PDF Report Generation
-
-Portfolio Presentation & Communication
+Analytical Storytelling: Turning raw data into readable, visual insights
 
 
 
 ---
 
-Let’s Connect
+About the Author
 
-Feel free to connect or collaborate:
+I’m Goitseone Ndlovu, a passionate data analyst and Power BI developer focused on making data both insightful and beautiful. I specialize in SQL, data modeling, and data storytelling that empowers decisions.
 
-LinkedIn
+> Let's connect and collaborate: LinkedIn | GitHub | goitsee07@gmail.com
 
-GitHub
-
-Email: goitsee07@gmail.com
 
 
